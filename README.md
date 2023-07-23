@@ -1,5 +1,5 @@
 # FFR135-Artificial-Neural-Networks
-Course FFR135 at Chalmers University. The core element here has been to implement common types of neural networks from scratch including Hopfield networks, supervised and unsupervised learning.
+The core element here has been to implement common types of neural networks from scratch including Hopfield networks, supervised and unsupervised learning.
 
 Self-organizing map of different flower species |
 :-------------------------:
